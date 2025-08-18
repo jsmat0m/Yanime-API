@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: hianime-api
+    env: node
+    rootDir: .
+    buildCommand: bun install
+    startCommand: bun index.js
