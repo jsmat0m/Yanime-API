@@ -1,7 +1,7 @@
-# <p align="center">📺 Yanime-API</p>
+# <p align="center">📺 NekoTV-API</p>
 
 <div align="center">
-    Yanime-API is a RESTful API that utilizes web scraping to fetch anime content from hianimez.to. It provides endpoints to retrieve anime details, episodes, and streaming links.
+    NekoTV-API is a RESTful API that utilizes web scraping to fetch anime content from hianimez.to. It provides endpoints to retrieve anime details, episodes, and streaming links.
 </div>
 <br/>
 
@@ -36,13 +36,13 @@ https://pnpm.io/installation
 1. Clone the repository and move into the directory.
 
    ```bash
-   git clone https://github.com/jsmat0m/Yanime-API.git
+   git clone https://github.com/jsmat0m/NekoTV-API.git
    ```
 
 2. navigate to project
 
    ```bash
-     cd Yanime-API
+     cd NekoTV-API
    ```
 
 3. Install all the dependencies.
@@ -61,9 +61,9 @@ https://pnpm.io/installation
 
 ### Render
 
-Deploy your own instance of Yanime-API on Render.
+Deploy your own instance of NekoTV-API on Render.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/jsmat0m/Yanime-API)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/jsmat0m/NekoTV-API)
 
 ## <span id="documentation">📚 Documentation</span>
 
@@ -770,17 +770,17 @@ console.log(data);
 
 ## <span id="development">👨‍💻 Development</span>
 
-Pull requests and stars are always welcome. If you encounter any bug or want to add a new feature to this api, consider creating a new [issue](https://github.com/jsmat0m/Yanime-API/issues). If you wish to contribute to this project feel free to make pull request
+Pull requests and stars are always welcome. If you encounter any bug or want to add a new feature to this api, consider creating a new [issue](https://github.com/jsmat0m/NekoTV-API/issues). If you wish to contribute to this project feel free to make pull request
 
 ### refer tnis repo to build your frontend
 
-- [Yanime](https://github.com/jsmat0m/Yanime)
+- [NekoTV](https://github.com/jsmat0m/NekoTV)
 
 ## <span id="contributors">✨ Contributors</span>
 
 Thanks to the following people for keeping this project alive and relevant.
 
-[![](https://contrib.rocks/image?repo=jsmat0m/Yanime-API)](https://github.com/jsmat0m/Yanime-API/graphs/contributors)
+[![](https://contrib.rocks/image?repo=jsmat0m/NekoTV-API)](https://github.com/jsmat0m/NekoTV-API/graphs/contributors)
 
 ## <span id="thanks">🤝 Thanks</span>
 
