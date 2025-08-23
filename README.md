@@ -2,11 +2,14 @@
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #a29bfc, #89bcf8); -webkit-background-clip: text; color: transparent;">
     📺 NekoTV-API
-    <p align="center">
-  <img src="./logo.png" alt="NekoTV Logo" width="500"/>
-</p>
   </span>
 </h1>
+
+<p align="center">
+  <img src="./apilogo.png" alt="NekoTV Logo" width="500"/>
+</p>
+
+---
 
 <p align="center">
   NekoTV-API is a RESTful API that fetches anime content from <a href="https://hianimez.to" target="_blank">hianimez.to</a> using web scraping.  
