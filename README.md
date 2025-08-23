@@ -144,5 +144,4 @@ console.log(data);
 <h2 style="color:#a29bfc;">🙌 Support</h2>
 
 If you like this project, **leave a star** 🌟 on GitHub:
-
-[![GitHub stars](https://img.shields.io/github/stars/jsmat0m/NekoTV-API?style=social&labelColor=%23a29bfc&logo=github)](https://github.com/jsmat0m/NekoTV-API)
+[![Stargazers over time](https://starchart.cc/jsmat0m/NekoTV-API.svg?variant=adaptive)](https://starchart.cc/jsmat0m/NekoTV-API)
