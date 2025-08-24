@@ -127,6 +127,12 @@ This API is free to use, copy, modify, and redistribute **for non-commercial pur
 **Restrictions:**  
 - Commercial use of this API or any derivative work is strictly prohibited.  
 
+**Full License:**  
+For the complete license details, please refer to the [LICENSE.md](LICENSE.md) file.  
+
+> “Non-commercial only: because cats don’t pay rent.” 🐱
+
+---
 
 <h2 style="color:#a29bfc;">👨‍💻 Development</h2>
 
