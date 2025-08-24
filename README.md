@@ -120,6 +120,14 @@ console.log(data);
 
 ---
 
+# 🐾 License
+
+This API is free to use, copy, modify, and redistribute **for non-commercial purposes**.  
+
+**Restrictions:**  
+- Commercial use of this API or any derivative work is strictly prohibited.  
+
+
 <h2 style="color:#a29bfc;">👨‍💻 Development</h2>
 
 - Pull requests and stars are welcome.  
